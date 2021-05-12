@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "scripts": {
+    "remark": "remark ."
+  },
+  "devDependencies": {
+    "remark": "^13.0.0",
+    "remark-lint-no-shell-dollars": "^2.0.2",
+    "remark-preset-lint-markdown-style-guide": "^4.0.0"
+  }
+}
